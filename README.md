@@ -22,4 +22,4 @@ The Program will add Student Record to database - and can be used to perform CRU
 * More development is on the way, please do remind if any thing is missing or not understandable
 
 # Thank You
-* Engineering, Rahbar Ali Haider
+* Engineer, Rahbar Ali Haider
